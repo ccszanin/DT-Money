@@ -29,5 +29,6 @@ cursor: pointer;
 
 &:hover {
   background: ${props => props.theme["green-700"]};
+  transition:  background-color 0.2s;
 }
 `
