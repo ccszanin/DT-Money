@@ -1,5 +1,5 @@
 {
-  "transactions":[
+  "transactions": [
     {
       "id": 1,
       "description": "Desenvolvimento de site",
@@ -23,6 +23,22 @@
       "category": "Educação",
       "price": 1980,
       "createdAt": "2024-02-06T18:26:35.978Z"
+    },
+    {
+      "description": "desenvolvimento de App",
+      "category": "venda",
+      "price": 10000,
+      "type": "income",
+      "createdAt": "2024-02-09T17:34:25.136Z",
+      "id": 4
+    },
+    {
+      "description": "Pastel",
+      "category": "Alimentação",
+      "price": 10,
+      "type": "outcome",
+      "createdAt": "2024-02-09T19:16:25.083Z",
+      "id": 5
     }
   ]
 }
