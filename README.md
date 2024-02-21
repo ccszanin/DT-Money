@@ -1,5 +1,5 @@
 <p align="center">
-  <h1 align="center"><a href="https://dt-money-ccszanin.vercel.app/">DT Money :rocket: </a></h1>
+  <h1 align="center"><a href="https://dt-money-ccszanin.vercel.app/">DT Money  ✨ </a></h1>
 </p>
 
 
